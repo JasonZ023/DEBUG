@@ -1,1 +1,12 @@
---
+  {
+      "name": "DDNPC",
+      "symbol": "DNPC",
+      "description": "Only Possible On Solana",
+      "image": "https://raw.githubusercontent.com/JasonZ023/DEBUG/main/cc.png",
+      "attributes": [
+        {
+          "trait_type": "Item",
+          "value": "DDNPC"
+        }
+      ]
+    }
